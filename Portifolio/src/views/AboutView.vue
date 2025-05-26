@@ -28,8 +28,8 @@
 
       <!-- FRONT-END -->
       <div class="mb-8 w-full">
-        <p class="text-blue-200 text-xl font-bold mb-4">Front-end</p>
-        <div class="flex flex-wrap gap-6">
+        <p class="text-blue-200 text-xl font-bold mb-4 items-center">Front-end</p>
+        <div class="flex flex-wrap gap-6 items-center">
           <SkillCard icon="html-5.svg" label="HTML" />
           <SkillCard icon="icons8-css.svg" label="CSS" />
           <SkillCard icon="icons8-tailwind-css.svg" label="Tailwind" />
@@ -41,8 +41,8 @@
 
       <!-- BACK-END -->
       <div class="mb-8 w-full">
-        <p class="text-blue-200 text-xl font-bold mb-4">Back-end</p>
-        <div class="flex flex-wrap gap-6">
+        <p class="text-blue-200 text-xl font-bold mb-4 items-center">Back-end</p>
+        <div class="flex flex-wrap gap-6 items-center">
           <SkillCard icon="python.svg" label="Python" />
           <SkillCard icon="php.svg" label="PHP" />
           <SkillCard icon="csharp.svg" label="C#" />
@@ -78,7 +78,7 @@
 
       <!-- INFRAESTRUTURA -->
       <div class="mb-8 w-full">
-        <p class="text-blue-200 text-xl font-bold mb-4">Infraestrutura</p>
+        <p class="text-blue-200 text-xl font-bold mb-4">Sistema operacional</p>
         <div class="flex flex-wrap gap-6">
           <SkillCard icon="linux.svg" label="Linux" />
           <SkillCard icon="windows.svg" label="Windows" />
