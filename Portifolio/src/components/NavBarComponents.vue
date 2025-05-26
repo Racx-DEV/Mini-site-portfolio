@@ -9,7 +9,7 @@
         <router-link to="/about" class="hover:text-blue-400 transition">Sobre</router-link>
       </li>
       <li>
-        <router-link to="/contato" class="hover:text-blue-400 transition">Contato</router-link>
+        <router-link to="/contact" class="hover:text-blue-400 transition">Contato</router-link>
       </li>
     </ul>
   </nav>
